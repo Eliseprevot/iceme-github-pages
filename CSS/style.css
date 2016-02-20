@@ -41,7 +41,7 @@ body{
 	margin-bottom: 1em;
 }
 
-.spacer {
+#spacer {
 	height: 18em;
 	padding-top: 50px;
 }
@@ -56,6 +56,6 @@ body{
 	margin-bottom: 2em;
 }
 
-.navbartransparent {
-	background-color: rgba(0, 0, 0);
+.navbar-transparent {
+	background-color: rgba(0, 0, 0, 0.7);
 }
