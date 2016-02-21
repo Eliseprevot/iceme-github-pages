@@ -59,8 +59,13 @@ body{
 
 .navbar-transparent {
 	background-color: rgba(0, 0, 0, 0.6);
+	border-color: black;
 }
 
 .vertical-spacer{
 	height: 6em;
+}
+
+.navbar-header {
+	color: white;
 }
